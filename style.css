@@ -1,7 +1,9 @@
-@define-color foreground #eeeeee;
-@define-color foreground-inactive #aaaaaa;
-@define-color background #000000;
-@define-color active-workspace #3E3E3E;
+/* @define-color foreground #eeeeee; */
+/* @define-color foreground-inactive #aaaaaa; */
+/* @define-color background #000000; */
+/* @define-color active-workspace #3E3E3E; */
+
+@import "/home/mladen/.cache/wal/colors-waybar.css";
 
 * {
     font-family: JetBrains Mono;
