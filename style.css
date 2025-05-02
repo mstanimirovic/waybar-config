@@ -33,7 +33,7 @@
 
 #memory,
 #temperature {
-    padding-left: 1em;
+    margin-left: 1em;
 }
 
 #wireplumber,
@@ -42,5 +42,9 @@
 #language,
 #network,
 #tray {
-    padding-right: 1em;
+    margin-right: 1em;
+}
+
+#bluetooth {
+    margin-right: 1em;
 }
