@@ -48,3 +48,11 @@
 #bluetooth {
     margin-right: 1em;
 }
+
+#battery {
+    background-color: @background;
+}
+
+#battery.warning {
+    color: #ff0000;
+}
